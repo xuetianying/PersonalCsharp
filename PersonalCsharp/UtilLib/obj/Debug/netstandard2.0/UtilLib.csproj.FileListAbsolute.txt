@@ -1,0 +1,9 @@
+i:\PersonGitCode\PersonalCsharp\UtilLib\bin\Debug\netstandard2.0\UtilLib.deps.json
+i:\PersonGitCode\PersonalCsharp\UtilLib\bin\Debug\netstandard2.0\UtilLib.dll
+i:\PersonGitCode\PersonalCsharp\UtilLib\bin\Debug\netstandard2.0\UtilLib.pdb
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.csprojAssemblyReference.cache
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.csproj.CoreCompileInputs.cache
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.AssemblyInfoInputs.cache
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.AssemblyInfo.cs
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.dll
+i:\PersonGitCode\PersonalCsharp\UtilLib\obj\Debug\netstandard2.0\UtilLib.pdb

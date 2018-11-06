@@ -15,3 +15,5 @@ i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.
 i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.csproj.CopyComplete
 i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.dll
 i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.pdb
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\UtilLib.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\UtilLib.pdb

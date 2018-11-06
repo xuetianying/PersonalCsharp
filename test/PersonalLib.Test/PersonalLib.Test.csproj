@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\PersonalCsharp\CommomLib\CommomLib.csproj" />
+     <ProjectReference Include="..\..\PersonalCsharp\UtilLib\UtilLib.csproj" />
   </ItemGroup>
 
 </Project>
