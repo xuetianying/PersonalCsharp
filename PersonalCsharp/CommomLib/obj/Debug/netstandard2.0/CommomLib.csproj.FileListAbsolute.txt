@@ -1,0 +1,9 @@
+i:\PersonGitCode\PersonalCsharp\CommomLib\bin\Debug\netstandard2.0\CommomLib.deps.json
+i:\PersonGitCode\PersonalCsharp\CommomLib\bin\Debug\netstandard2.0\CommomLib.dll
+i:\PersonGitCode\PersonalCsharp\CommomLib\bin\Debug\netstandard2.0\CommomLib.pdb
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.csprojAssemblyReference.cache
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.csproj.CoreCompileInputs.cache
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.AssemblyInfoInputs.cache
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.AssemblyInfo.cs
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.dll
+i:\PersonGitCode\PersonalCsharp\CommomLib\obj\Debug\netstandard2.0\CommomLib.pdb

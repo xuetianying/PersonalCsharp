@@ -1,0 +1,17 @@
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\PersonalLib.Test.deps.json
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\PersonalLib.Test.runtimeconfig.json
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\PersonalLib.Test.runtimeconfig.dev.json
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\PersonalLib.Test.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\PersonalLib.Test.pdb
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\CommomLib.dll
+i:\PersonGitCode\test\PersonalLib.Test\bin\Debug\netcoreapp2.1\CommomLib.pdb
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.csprojAssemblyReference.cache
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.csproj.CoreCompileInputs.cache
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.AssemblyInfoInputs.cache
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.AssemblyInfo.cs
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.csproj.CopyComplete
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.dll
+i:\PersonGitCode\test\PersonalLib.Test\obj\Debug\netcoreapp2.1\PersonalLib.Test.pdb
